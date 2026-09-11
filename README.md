@@ -33,4 +33,4 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook
 
 ## About
 
-Completed by Peter Thuo Muiruri, Junior Data Analyst, AnalystLab Africa Consulting.
+Completed by Peter Thuo Muiruri, Data Analyst
